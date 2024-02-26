@@ -1,21 +1,3 @@
-**# Tic-Tac-Toe Game**
-
-This is a simple implementation of the classic Tic-Tac-Toe game written in Python using the Tkinter library for the graphical user interface. It allows two players to play Tic-Tac-Toe against each other on the same computer.
-
-**## Features**
-
-- Simple, clean, and interactive user interface.
-- Supports two players.
-- Indicates when a player has won the game or if the game is a draw.
-- Reset functionality to start a new game anytime.
-- Tracks the number of steps taken before reaching the end of the game.
-
-**## Prerequisites**
-
-Before you begin, ensure you have met the following requirements:
-- Python 3.x installed on your machine.
-- Basic understanding of Python and Tkinter library.
-
 # Tic-Tac-Toe Game
 
 This is a simple implementation of the classic Tic-Tac-Toe game written in Python using the Tkinter library for the graphical user interface. It allows two players to play Tic-Tac-Toe against each other on the same computer.
